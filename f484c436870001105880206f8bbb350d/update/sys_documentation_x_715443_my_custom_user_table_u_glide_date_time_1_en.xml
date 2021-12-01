@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_glide_date_time_1" label="Select Date" language="en" table="x_715443_my_custom_user_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_glide_date_time_1</element>
+            <help/>
+            <hint/>
+            <label>Select Date</label>
+            <language>en</language>
+            <name>x_715443_my_custom_user_table</name>
+            <plural>Select Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-01 13:37:46</sys_created_on>
+            <sys_id>08e5d3d7870401105880206f8bbb35d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Select Date</sys_name>
+            <sys_package display_value="my custom application" source="x_715443_my_custom">f484c436870001105880206f8bbb350d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="my custom application">f484c436870001105880206f8bbb350d</sys_scope>
+            <sys_update_name>sys_documentation_x_715443_my_custom_user_table_u_glide_date_time_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-01 13:37:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
